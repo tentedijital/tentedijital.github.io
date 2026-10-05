@@ -13,7 +13,8 @@ Tente Dijital'in tek sayfalık tanıtım sitesi. Derleme adımı yok: düz HTML 
 | `assets/style.css` | Tasarım |
 | `assets/logo.svg`, `logo.png` | Ana logo (açık zemin) |
 | `assets/logo-beyaz.svg`, `logo-beyaz.png` | Koyu zemin için logo |
-| `assets/ikon.svg`, `ikon-1024.png` | Uygulama ikonu (yuvarlak köşeli kare) |
+| `assets/ikon.svg`, `ikon-1024.png` | İkon: tenteli dükkân, lacivert zemin |
+| `assets/ikon-acik.svg`, `ikon-acik-1024.png` | İkon: beyaz zemin |
 | `assets/profil-1024.png` | WhatsApp / Instagram profil fotoğrafı (daire kesimine uygun) |
 | `assets/favicon.svg`, `apple-touch-icon.png` | Tarayıcı ve telefon simgesi |
 | `assets/og.png` | Link paylaşınca çıkan önizleme görseli (1200×630) |
